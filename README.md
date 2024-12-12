@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Machine Learning Project.<br>🧑‍🤝‍🧑 
-I'm currently in collaboration with Avinash Sharma for an Android App Project ISF- JUET.<br>🌱 
-I’m currently learning SpringBoot, DSA in Java, Kotlin.<br>📫 How to reach me<br>aryanjaiswal123789@gmail.com<br>📄 
-Know about my experiences <br>https://drive.google.com/file/d/1CLx9wFx0INCGv36WRqIfw9p-CzInPiDO/view?usp=drivesdk
+🔭 I'm currently working on Machine Learning Project.<br><br>🧑‍🤝‍🧑 I'm currently in collaboration with Avinash Sharma for an Android App Project ISF- JUET.<br><br>🌱 I’m currently learning SpringBoot, DSA in Java, Kotlin.<br><br>📫 How to reach me<br>aryanjaiswal123789@gmail.com<br><br>📄 Know about my experiences <br>https://drive.google.com/file/d/1CLx9wFx0INCGv36WRqIfw9p-CzInPiDO/view?usp=drivesdk
 
 
 ## 🌐 Socials:
@@ -14,9 +11,6 @@ Know about my experiences <br>https://drive.google.com/file/d/1CLx9wFx0INCGv36WR
 ![](https://github-readme-stats.vercel.app/api?username=Aryan123aryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan123aryan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan123aryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryan123aryan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
