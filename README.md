@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on Machine Learning Project.<br>🧑‍🤝‍🧑 I'm currently in collaboration with Avinash Sharma for an Android App Project ISF- JUET.<br>🌱 I’m currently learning SpringBoot, DSA in Java, Kotlin.<br>📫 How to reach me<br>aryanjaiswal123789@gmail.com<br>📄 Know about my experiences <br>https://drive.google.com/file/d/1CLx9wFx0INCGv36WRqIfw9p-CzInPiDO/view?usp=drivesdk
+🔭 I'm currently working on Machine Learning Project.<br>🧑‍🤝‍🧑 
+I'm currently in collaboration with Avinash Sharma for an Android App Project ISF- JUET.<br>🌱 
+I’m currently learning SpringBoot, DSA in Java, Kotlin.<br>📫 How to reach me<br>aryanjaiswal123789@gmail.com<br>📄 
+Know about my experiences <br>https://drive.google.com/file/d/1CLx9wFx0INCGv36WRqIfw9p-CzInPiDO/view?usp=drivesdk
 
 
 ## 🌐 Socials:
