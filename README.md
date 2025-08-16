@@ -1,24 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently working on Food Delivery App<br>🌱 I’m currently learning KMP, SpringBoot, ML, and Advanced Kotlin<br>💬 Ask me about Android, Jetpack Compose, KMP, Firebase, API Integration, SpringBoot<br>📫 Reach me at aryanjaiswal123123@gmail.com<br>⚡ Fun fact I think I am a good Learner, Yes I am
+# 👨‍💻 Aryan Jaiswal  
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_.eee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanjaiswal1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aryan_eee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanjaiswal123789@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debugwitharyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debugwitharyan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debugwitharyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=debugwitharyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=debugwitharyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 **Software Engineer | Android Developer | Kotlin & Java Specialist | Spring Boot | Firebase | ML Enthusiast**  
+Passionate about building scalable mobile applications and delivering seamless user experiences through optimized design and performance.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=debugwitharyan&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+- 🔭 Currently: **Software Development Intern @ Delnie Pvt. Ltd.**  
+- 🌱 Exploring: **KMP, SpringBoot, ML, Advanced Kotlin**  
+- 💬 Ask me about: **Android, Jetpack Compose, Firebase, API Integration, SpringBoot**  
+- 📫 Reach me at: **aryanjaiswal123123@gmail.com**  
+- ⚡ Fun fact: *I learn fast and love mentoring others in tech*  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/aryanjaiswal1"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/DebugWithAryan"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/Aryan_eee"><img src="https://img.shields.io/badge/-Twitter(X)-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/aryan_.eee"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:aryanjaiswal123123@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://aryan-pi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏢 Experience  
+
+**Software Development Intern – Delnie Pvt. Ltd. (May 2025 – Present)**  
+- Architected & developed **FavHiker**, a food discovery Android app using Kotlin, Jetpack Compose & MVVM  
+- Built responsive UI components (Home Feed, User Profile, etc.)  
+- Reduced crash rates by **25%** via optimization, debugging & code reviews  
+- Integrated **REST APIs & Firebase** for real-time data sync  
+- Implemented **Dagger-Hilt** for dependency injection → improved modularity & testability  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 ISF Club Management Application *(Kotlin, Firebase, Jetpack Compose, MVVM – 2024)*  
+- Club management app for **100+ members** with real-time updates  
+- Features: Attendance tracking, event dashboard, inventory control, chat  
+- Implemented offline caching & push notifications  
+
+### 🔹 Connectify – Professional Networking Platform *(Kotlin, Firebase, OAuth – 2024)*  
+- Networking app supporting **team formation & hackathon tracking**  
+- Built real-time post feed with advanced filters  
+
+### 🔹 JUET Timetable Application *(Kotlin, Firebase, SQLite – 2024)*  
+- Offline-first timetable app used by **1000+ students**  
+- Added batch/semester filtering, optimized load time to **2 seconds**  
+
+---
+
+## 💻 Tech Stack  
+
+**Languages**  
+`Python` `Java` `Kotlin` `C++` `C` `JavaScript` `SQL`  
+
+**Frameworks & Tools**  
+`Spring Boot` `Jetpack Compose` `MVVM` `Android SDK` `Retrofit` `Dagger/Hilt`  
+
+**Databases**  
+`Firebase Realtime DB` `SQLite` `MySQL` `NoSQL` `Room DB`  
+
+**Dev Tools**  
+`Android Studio` `Git/GitHub` `Firebase` `Postman` `Arduino IDE`  
+
+**Core Competencies**  
+`Mobile Development` `API Integration` `Debugging` `Agile` `CI/CD` `Unit Testing`  
+
+---
+
+## 🏆 Achievements  
+
+- **Leadership**: Co-Founder – *CODE CONQUERORS*, Technical Coordinator – *IETE Student Forum*  
+- **Certifications**: Walmart & Goldman Sachs Forage Programs, Android with Kotlin (Udemy), HTML/CSS (Infosys)  
+- **Mentorship**: Guided **20+ students** in app development  
+- **Impact**: Built **5+ production-ready apps** used by 1000+ users  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debugwitharyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwitharyan&theme=radical&hide_border=false&layout=compact" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debugwitharyan&theme=radical&hide_border=false" height="170px"/>
+</p>
+
+---
+
+## 🏅 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debugwitharyan&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=debugwitharyan&icon=6&color=12" />
+</p>
