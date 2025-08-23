@@ -12,7 +12,7 @@
 <p align="center">
   <b>Software Engineer</b> — Android (Kotlin/Compose) • Spring Boot • Firebase • API Integrations • ML-curious
 </p>
-<p align="center"><em>Transforming ideas into performant, user-friendly mobile experiences.</em></p>
+<p align="center"><em>Transforming ideas into performant, user-friendly mobile experiences..</em></p>
 
 <!-- Quick actions -->
 <p align="center">
