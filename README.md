@@ -1,5 +1,5 @@
 <!--
-  Aryan Jaiswal — GitHub Profile README
+  Aryan Jaiswaaal — GitHub Profile README
   Design goals:
   • Professional, skimmable, and conversion-friendly for recruiters
   • Modern visuals without heavy gimmicks; works in both light & dark modes
