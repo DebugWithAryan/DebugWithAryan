@@ -10,7 +10,7 @@
 <!-- Title -->
 <h1 align="center">👋 Hi, I am <span style="color:#f39c12;font-weight:700">Aryan Jaiswal</span></h1>
 <p align="center">
-  <b>Software Engineer</b> — Android (Kotlin/Compose) • Spring Boot • Firebase • API Integrations • ML-curious
+  <b>Software Engineer</b> — Android (Kotlin/Compose) • Spring Boot • Firebase • API Integrations • ML-curious • iOS Developer
 </p>
 <p align="center"><em>Transforming ideas into performant, user-friendly mobile experiences..</em></p>
 
