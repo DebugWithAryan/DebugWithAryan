@@ -4,7 +4,7 @@
   • Professional, skimmable, and conversion-friendly for recruiters
   • Modern visuals without heavy gimmicks; works in both light & dark modes
   • Uses well-supported widgets with graceful fallbacks
-  • Sections organized for credibility: Summary → Skills → Work → Projects → Achievements → Stats → Contact
+  • Sections organized for credibility: Summary → Skills → Work → Projects → Achievements → Stats → 
 -->
 
 <!-- Title -->
